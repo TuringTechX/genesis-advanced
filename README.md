@@ -111,7 +111,7 @@ The Genesis Advanced Superapp follows a **modular microservices architecture**, 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/genesis-advanced-superapp.git
+   git clone https://github.com/TuringTechX/genesis-advanced-superapp.git
    cd genesis-advanced-superapp
    ```
 
